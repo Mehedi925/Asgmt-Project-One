@@ -39,10 +39,10 @@ body {
 .explore-btn a {
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     padding: 15px 45px;
     background-color: rgb(255, 68, 10);
-    border-radius: 8px;
+    border-radius: 6px;
 }
 
 .scroll-paragraph {
@@ -64,6 +64,10 @@ body {
 
 .year-color {
     color: orange;
+}
+
+.mission {
+    overflow: hidden;
 }
 
 .mission-item {
@@ -98,4 +102,58 @@ body {
 
 .goals-bg {
     background-color: #FFF4D6;
+}
+
+/* *****Develop Section -Start***** */
+#develop-bg {
+    margin-left: 30px;
+    height: 500px;
+    background-image: url(img/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 17%;
+
+}
+
+.develop-all {
+    margin-top: 50px;
+
+
+}
+
+.develop-item {
+    width: 40%;
+    float: left;
+    margin-left: 10px;
+}
+
+.develop-item img {
+    margin-top: 30px;
+    margin-left: 19%;
+    width: 70%;
+}
+
+.margn {
+    margin-left: 13px;
+    margin-top: 65px;
+}
+
+.develop-item h3 {
+    font-size: 40px;
+    line-height: 20px;
+}
+
+.develop-item p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.develop-item a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding: 15px 45px;
+    background-color: rgb(255, 68, 10);
+    border-radius: 6px;
+
 }
