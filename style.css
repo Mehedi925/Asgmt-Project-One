@@ -1,3 +1,55 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+/* *****First Section -Start***** */
+
+.first-content {
+    height: 500px;
+    margin-top: 70px;
+}
+
+.my-info {
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+}
+
+.my-info h1 {
+    font-size: 55px;
+    border-left: 5px solid rgb(255, 68, 10);
+    ;
+    padding-left: 10px;
+}
+
+.heading-color {
+    color: orange;
+}
+
+.head-paragraph {
+    font-size: 20px;
+}
+
+.explore-btn {
+    padding-top: 20px;
+}
+
+.explore-btn a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px 45px;
+    background-color: rgb(255, 68, 10);
+    border-radius: 8px;
+}
+
+.scroll-paragraph {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.my-info img {
+    width: 66%;
+
 }
