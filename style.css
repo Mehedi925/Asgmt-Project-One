@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    padding: 0;
 }
 
 /* *****First Section -Start***** */
@@ -52,4 +53,49 @@ body {
 .my-info img {
     width: 66%;
 
+}
+
+/* *****Mission Section -Start*****  */
+.mission h1 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.year-color {
+    color: orange;
+}
+
+.mission-item {
+    width: 21%;
+    float: left;
+    margin-left: 1.4%;
+    border-radius: 35px;
+    padding: 37px;
+}
+
+.mission-item h3 {
+    font-size: 27px;
+}
+
+.mission-item p {
+    font-size: 18px;
+}
+
+.mission-item img {
+    width: 50%;
+}
+
+.no-margin {
+    margin-left: 10%;
+    background-color: #EDF5F6;
+}
+
+.vission-bg {
+    background-color: #FFEEEE;
+
+}
+
+.goals-bg {
+    background-color: #FFF4D6;
 }
