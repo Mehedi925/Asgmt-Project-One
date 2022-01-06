@@ -52,7 +52,6 @@ body {
 
 .my-info img {
     width: 66%;
-
 }
 
 /* *****Mission Section -Start*****  */
@@ -112,13 +111,10 @@ body {
     background-repeat: no-repeat;
     background-position: left center;
     background-size: 17%;
-
 }
 
 .develop-all {
     margin-top: 50px;
-
-
 }
 
 .develop-item {
@@ -166,7 +162,6 @@ body {
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 17%;
-
 }
 
 .comunity-item {
@@ -197,4 +192,64 @@ body {
     padding: 15px 45px;
     background-color: rgb(255, 68, 10);
     border-radius: 6px;
+}
+
+/* *****client Section -Start***** */
+.global-client {
+    margin-left: 10%;
+}
+
+.review-head {
+    font-size: 30px;
+    text-align: center;
+}
+
+.no-mrgn {
+    margin-left: 0;
+}
+
+.review-color {
+    color: orange;
+}
+
+.client-item {
+    width: 18%;
+    float: left;
+    margin-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.no-mrgn {
+    margin: 0;
+}
+
+.client-item img {
+    width: 48%;
+    border-radius: 100%;
+}
+
+/* *****Footer Section -Start*****  */
+.footer-item {
+    margin-top: 60px;
+    width: 100%;
+    height: 200px;
+    float: left;
+    background-color: black;
+    padding-top: 30px;
+}
+
+.footer-item p {
+    color: white;
+    text-align: center;
+}
+
+.footer-item h1 {
+    color: white;
+    text-align: center;
+}
+
+.mission-year {
+    color: red;
 }
