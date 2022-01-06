@@ -155,5 +155,46 @@ body {
     padding: 15px 45px;
     background-color: rgb(255, 68, 10);
     border-radius: 6px;
+}
 
+/* *****community Section -Start***** */
+.comunity-all {
+    margin-top: 50px;
+    margin-right: 69px;
+    height: 488px;
+    background-image: url(img/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 17%;
+
+}
+
+.comunity-item {
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+}
+
+.comunity-item img {
+    width: 70%;
+    margin-left: 10%;
+}
+
+.comunity-item h3 {
+    font-size: 40px;
+    line-height: 20px;
+}
+
+.comunity-item p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.comunity-item a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding: 15px 45px;
+    background-color: rgb(255, 68, 10);
+    border-radius: 6px;
 }
